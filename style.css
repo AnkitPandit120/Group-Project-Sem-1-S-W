@@ -32,7 +32,7 @@ section {
     scroll-margin-top: 100px;
 }
 
-/* LAYOUT */
+
 .container {
     max-width: 1100px;
     margin: 0 auto;
@@ -77,7 +77,7 @@ section {
     font-size: 18px;
 }
 
-/* NAVBAR */
+
 header {
     background-color: #FFFFFF;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.04);
@@ -145,7 +145,6 @@ nav {
     background-color: #4A3B32;
 }
 
-/* HERO */
 .hero {
     background-color: #4A3B32;
     color: #FFFFFF;
@@ -170,7 +169,7 @@ nav {
     color: #E6DCD5;
 }
 
-/* ABOUT */
+
 .bg-cream {
     background-color: #F9F5F0;
 }
@@ -189,7 +188,6 @@ nav {
     border: 2px solid #FFFFFF;
 }
 
-/* POLICIES */
 .bg-white {
     background-color: #FFFFFF;
 }
@@ -244,7 +242,6 @@ nav {
     font-family: 'Playfair Display', serif;
 }
 
-/* CLAIMS */
 .steps-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -271,7 +268,6 @@ nav {
     border: 2px solid #C0A062;
 }
 
-/* FAQ */
 .faq-section {
     max-width: 800px;
     margin: 0 auto;
@@ -310,7 +306,7 @@ details[open] summary::after {
     color: #C0A062;
 }
 
-/* CONTACT */
+
 .contact-section {
     background-color: #4A3B32;
     color: #FFFFFF;
@@ -339,7 +335,7 @@ details[open] summary::after {
     background-color: #FFFFFF;
 }
 
-/* FOOTER */
+
 footer {
     background-color: #2D2420;
     color: #999;
@@ -369,7 +365,7 @@ footer {
     color: #666;
 }
 
-/* RESPONSIVE */
+
 @media (max-width: 768px) {
     .about-grid {
         grid-template-columns: 1fr;
